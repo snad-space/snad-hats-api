@@ -1,4 +1,4 @@
-FROM ghcr.io/hombit/hats-api:0.0.1
+FROM ghcr.io/hombit/hats-api:0.0.4
 
 COPY hats-api.conf /etc/hats-api.conf
 
